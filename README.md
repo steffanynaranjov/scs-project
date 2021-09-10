@@ -15,3 +15,8 @@
 * Mobile comp is based on a width of 375px
 
 * Desktop and mobile should scale based on browser width with a breakpoint of 960px
+
+### Deploy Project
+The project was deploy in vercel, here is the link
+
+https://scs-project-qsiqab6q8-steffanynaranjov.vercel.app - scs project [Project] (https://scs-project-qsiqab6q8-steffanynaranjov.vercel.app)
