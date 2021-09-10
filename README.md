@@ -19,4 +19,4 @@
 ### Deploy Project
 The project was deploy in vercel, here is the link
 
-https://scs-project-qsiqab6q8-steffanynaranjov.vercel.app - scs project [Project] (https://scs-project-qsiqab6q8-steffanynaranjov.vercel.app)
+https://scs-project-qsiqab6q8-steffanynaranjov.vercel.app - scs project
